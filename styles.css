@@ -1,5 +1,5 @@
 body {
-    background-color: burlywood;   /* background-color: burlywood; */
+    /* background-color: burlywood; */
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
@@ -9,5 +9,6 @@ h1,h2,p {
 }
 
 #menu {
-  width: 300px;
+  width: 80px;
+  background-color: burlywood;
 }
